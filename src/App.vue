@@ -70,7 +70,7 @@ body{
   font-family: 'montserrat',sans-serif;
 }
 #app{
-background-image: url('./picture/cold-bg.jpg');
+background-image: url(/picture/cold-bg.jpg);
 background-size: cover;
 background-position: bottom;
 transition: 0.4s;
